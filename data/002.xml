@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+
+<logentry
+   revision="1">
+<author>OLIVER</author>
+<date>2019-06-13T03:52:22.521042Z</date>
+<msg>just for test</msg>
+</logentry>
+
+<logentry
+   revision="2">
+<author>OLIVER</author>
+<date>2019-06-13T07:50:54.641876Z</date>
+<msg>second commit</msg>
+</logentry>
+

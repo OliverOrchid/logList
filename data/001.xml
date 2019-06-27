@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+
+<logentry
+   revision="1">
+<author>OLIVER</author>
+<date>2019-06-13T03:52:22.521042Z</date>
+<msg>just for test</msg>
+</logentry>
+
+<logentry
+   revision="2">
+<author>OLIVER</author>
+<date>2019-06-13T07:50:54.641876Z</date>
+<msg>second commit</msg>
+</logentry>
+
+<logentry
+   revision="3">
+<author>OLIVER</author>
+<date>2019-06-13T07:52:11.276025Z</date>
+<msg>@a.txt  --  添加了若干文本
+</msg>
+</logentry>
+
+<logentry
+   revision="4">
+<author>OLIVER</author>
+<date>2019-06-13T08:04:14.707930Z</date>
+<msg></msg>
+</logentry>
+
+<logentry
+   revision="5">
+<author>OLIVER</author>
+<date>2019-06-13T08:04:31.501305Z</date>
+<msg></msg>
+</logentry>
+
+<logentry
+   revision="6">
+<author>OLIVER</author>
+<date>2019-06-13T08:06:02.836808Z</date>
+<msg>我不是正文！</msg>
+</logentry>
+
+<logentry
+   revision="7">
+<author>OLIVER</author>
+<date>2019-06-13T08:43:35.833904Z</date>
+<msg>test</msg>
+</logentry>
+
+<logentry
+   revision="8">
+<author>OLIVER</author>
+<date>2019-06-13T08:55:45.596759Z</date>
+<msg></msg>
+</logentry>
+
+<logentry
+   revision="9">
+<author>OLIVER</author>
+<date>2019-06-13T08:56:56.466246Z</date>
+<msg>发放阿飞</msg>
+</logentry>
+
+<logentry
+   revision="10">
+<author>OLIVER</author>
+<date>2019-06-14T01:41:53.124599Z</date>
+<msg>wth?</msg>
+</logentry>
+
+</log>
